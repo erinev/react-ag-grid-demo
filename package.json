@@ -2,7 +2,7 @@
     "name": "ag-grid-react-integration-demo",
     "version": "1.0.0",
     "description": "It's a 5 minute get-started guide with examples that you can copy/paste and hit the ground running. Once the basic setup is ready, I'll show you a few features and corresponding configuration options.",
-    "homepage": "https://react.ag-grid.com",
+    "homepage": "https://react-grid.ag-grid.com",
     "repository": {
         "type": "git",
         "url": "https://github.com/react-datagrid/integration-demo.git"
