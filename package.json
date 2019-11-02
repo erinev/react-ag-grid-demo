@@ -25,6 +25,7 @@
   "dependencies": {
     "ag-grid-community": "21.2.2",
     "ag-grid-react": "21.2.2",
+    "mocker-data-generator": "2.6.6",
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-scripts": "3.2.0"
