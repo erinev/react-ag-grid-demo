@@ -7,9 +7,9 @@ class GridDataGenerator {
     
     generateColumnDefs() {
         return [
-            { headerName: 'Make', field: 'make' },
-            { headerName: 'Model', field: 'model' },
-            { headerName: 'Price', field: 'price' }
+            { headerName: 'Make', field: 'make', minWidth: 250 },
+            { headerName: 'Model', field: 'model', minWidth: 250 },
+            { headerName: 'Price', field: 'price', minWidth: 250 }
 
         ];
     }
