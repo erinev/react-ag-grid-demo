@@ -2,7 +2,6 @@ class GridDataGenerator {
     constructor(columnCount, rowCount) {
         this.columnCount = columnCount;
         this.rowCount = rowCount;
-
     }
     
     generateColumnDefs() {
